@@ -1,2 +1,5 @@
-# TerrraTechies
-A personalized career and skill advisor powered by google cloud's vertex AI and Gemini models. 
+A personalized career and skill advisor powered by google cloud's vertex AI using Gemini 2.5-flash-lite.
+
+Authors:- Sagnik Ghosh, Anwitha Guntupalli, Sharaj R Shetty, Arihant Kaul, Kumar Anshuman.
+
+About- This is very different than conventional LLM models where user gets the roadmap after providing necessary details, we trained this model in such a manner that it generates a set of questions for the user, after receiving the input, it provides the user with the most suitable career path with analyzing industry trends and the skill gaps, Learning roadmap, Resources to learn from, Improvement scope and a conclusion. It has two personas- one is advisor mode and the other counsellor mode the model keeps syncing between two personas whenever its needed. It technically analyzes user's input and follow one persona accordingly, if the user seems to be demotivated it activates the counsellor persona where it motivates the user.The persona of the model are totally dependent on the prompt given by user, it analyzes the prompt and switches to the most suitable persona. By this way we not only aim to guide students with career help but also help them manage their mental health.
