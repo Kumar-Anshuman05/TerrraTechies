@@ -1,1 +1,9 @@
+Our project uses Google Cloud’s AI ecosystem, combining scalability with cutting-edge generative AI features.
 
+Vertex AI is a powerful platform for building, training, and deploying machine learning models at scale. We used it to manage our entire AI workflow, from experimentation to production.
+
+Gemini 2.5 Flash is Google’s top generative AI model, optimized for speed and efficiency. It allowed us to process queries and generate responses quickly, making it great for real-time situations.
+
+Google Cloud Console gave us an integrated environment to set up services, manage resources, and monitor performance across our AI pipeline.
+
+By combining these tools, we created a solution that is innovative, reliable, scalable, cost-efficient, and prepared for real-world impact.
